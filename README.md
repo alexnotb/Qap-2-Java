@@ -14,9 +14,13 @@ Output for CreditCardDemo.java
 Submission Questions
 
 1: 1.5h
+
 2: Your lections
+
 3: No
+
 4: No
+
 5: Problem #1 (MyLine and MyPoint):
 Difficulty: 3/5 (Moderate, required understanding of composition and geometric calculations).
 Confidence: High. I can confidently solve similar problems involving point-based geometric classes.
